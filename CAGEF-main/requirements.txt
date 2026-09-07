@@ -1,0 +1,14 @@
+numpy==1.26.4
+pandas==1.5.3
+torch==2.5.1+cu124
+tqdm==4.67.1
+python=3.12.8
+numpy=1.26.4
+pandas=2.2.3
+scanpy=1.11.5
+scipy=1.15.2
+scikit-learn=1.6.1
+anndata=0.12.6
+matplotlib=3.7.5
+sklearn-compat=0.1.5
+typing-extension=4.15.0
