@@ -1,4 +1,3 @@
-CAGEF
 CAGEF is a PyTorch implementation for multi-omics classification when some samples lack an entire assay. It learns a representation for each observed modality, predicts the representations of missing modalities, and combines them to classify each sample. The experiment driver simulates assay-level missingness on complete numerical matrices and evaluates predictions on a held-out test set.
 
 Method
